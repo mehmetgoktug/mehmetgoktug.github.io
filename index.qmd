@@ -1,0 +1,29 @@
+---
+title: "Mehmet Göktuğ Öztürk"
+subtitle: "Ecologist · Geospatial Analyst"
+image: profile.jpg
+page-navigation: false
+toc: false
+about:
+  template: trestles
+  links:
+    - icon: mastodon
+      text: Mastodon
+      href: https://ecoevo.social/@mehmet_goktu
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/mehmetgoktug.bsky.social
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/mehmetgoktug/
+    - icon: github
+      text: Github
+      href: https://github.com/mehmetgoktug
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/citations?hl=en&pli=1&user=vZ8O4VEAAAAJ
+comments: false
+---
+
+My work lies at the intersection of ecology, environmental science, and geospatial data science, with a focus on GIS, remote sensing, spatial analysis, statistical modelling, and machine learning. As an open and reproducible science advocate I work with tools such as R, Python, QGIS, and GDAL to solve spatial problems involving climate, wildfire, vegetation, land cover, biodiversity, and human–environment interactions.
+
+I have five years of professional experience working with geospatial data at İzmir Metropolitan Municipality. I am currently a PhD student in Ecology at Hacettepe University, where my research focuses on fire ecology, ecological modelling, and biogeography, with a strong spatial and spatio-temporal focus.

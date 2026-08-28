@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I am Mehmet Göktuğ Öztürk, an ecologist, geospatial analyst, and spatial data scientist. I have always been fascinated by nature—by observing its dynamics and understanding why things occur where they do. This curiosity about the spatial dimension of ecological processes is what eventually brought together my interests in ecology, geography, and data science.\nI studied Biology at Hacettepe University and later completed my MSc in Ecology, where I investigated the spatio-temporal patterns of lightning-induced wildfires in Türkiye. This research allowed me to combine several of my long-standing interests: ecology, meteorology and climatology, GIS, and spatial data analysis. I am currently a PhD student in Ecology at Hacettepe University. My research focuses on fire ecology, ecological modelling, and biogeography, with a strong emphasis on spatial and spatio-temporal processes. In my work, I use GIS and remote sensing together with machine-learning and statistical modelling (frequentist and bayesian statistical modelling, and multivariate ecological analyses) approaches.\nBeyond academic research, I have nearly five years of professional experience working with geospatial data at İzmir Metropolitan Municipality, contributing to municipal and EU-funded projects on climate resilience, biodiversity, nature-based solutions, and environmental planning. My work has involved spatial data processing, quality control, standardization, analysis, and visualization using R, Python, QGIS, ArcGIS, Google Earth Engine, and GDAL.\nI enjoy solving spatial problems rather than working within a particular software ecosystem. Depending on the task, I work with raster and vector data, satellite imagery, statistical and machine-learning models with and reproducible workflows. My main interests lie at the intersection of environmental science and geospatial data science, particularly wildfire, climate, vegetation, land cover, biodiversity, and human–environment interactions.\nFor my full resume:"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Mehmet Göktuğ Öztürk",
+    "section": "",
+    "text": "My work lies at the intersection of ecology, environmental science, and geospatial data science, with a focus on GIS, remote sensing, spatial analysis, statistical modelling, and machine learning. As an open and reproducible science advocate I work with tools such as R, Python, QGIS, and GDAL to solve spatial problems involving climate, wildfire, vegetation, land cover, biodiversity, and human–environment interactions.\nI have five years of professional experience working with geospatial data at İzmir Metropolitan Municipality. I am currently a PhD student in Ecology at Hacettepe University, where my research focuses on fire ecology, ecological modelling, and biogeography, with a strong spatial and spatio-temporal focus."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Ergan, G., Zare, G., Çilden, E., Özden, N., Öztürk, M. G., Manzano, P., Yılmaz, E., & Tavşanoğlu, Ç. (Accepted/In press). Heterocarpochory on goat fur: Xanthium strumarium burrs carrying additional diaspores. Seed Science Research. https://doi.org/10.1017/S0960258526100233\nBernardi, R. E., Bekar, İ., Öztürk, M. G., & Tavşanoğlu, Ç. (2026). Climate extremes, soils and topography, and past and present land use shape tree cover in Central Anatolia (Türkiye). Journal of Vegetation Science, 37(3), e70154. https://doi.org/10.1111/jvs.70154\n\n\n\nÖztürk, M.G., Bekar, İ., Tavşanoğlu, Ç., 2024. Rethinking lightning-induced fires: Spatial variability and implications for management policies. Forest Ecology and Management 572, 122262. https://doi.org/10.1016/j.foreco.2024.122262"
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Mehmet Göktuğ Öztürk",
+    "section": "",
+    "text": "Öztürk, M.G., Bekar, İ., Tavşanoğlu, Ç., 2024. Rethinking lightning-induced fires: Spatial variability and implications for management policies. #emph[Forest Ecology and Management] 572, 122262. “https://doi.org/10.1016/j.foreco.2024.122262”\nBernardi, R. E., Bekar, İ., Öztürk, M. G., & Tavşanoğlu, Ç. (2026). Climate extremes, soils and topography, and past and present land use shape tree cover in Central Anatolia (Türkiye). Journal of Vegetation Science, 37(3), e70154. “https://doi.org/10.1111/jvs.70154”"
+  },
+  {
+    "objectID": "publications.html#articles",
+    "href": "publications.html#articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Ergan, G., Zare, G., Çilden, E., Özden, N., Öztürk, M. G., Manzano, P., Yılmaz, E., & Tavşanoğlu, Ç. (Accepted/In press). Heterocarpochory on goat fur: Xanthium strumarium burrs carrying additional diaspores. Seed Science Research. https://doi.org/10.1017/S0960258526100233\nBernardi, R. E., Bekar, İ., Öztürk, M. G., & Tavşanoğlu, Ç. (2026). Climate extremes, soils and topography, and past and present land use shape tree cover in Central Anatolia (Türkiye). Journal of Vegetation Science, 37(3), e70154. https://doi.org/10.1111/jvs.70154\n\n\n\nÖztürk, M.G., Bekar, İ., Tavşanoğlu, Ç., 2024. Rethinking lightning-induced fires: Spatial variability and implications for management policies. Forest Ecology and Management 572, 122262. https://doi.org/10.1016/j.foreco.2024.122262"
+  }
+]

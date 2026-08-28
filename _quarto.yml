@@ -1,0 +1,25 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Mehmet Göktuğ Öztürk"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: https://r-delisi.github.io/
+        text: Blog
+      - href: publications.qmd
+        text: Publications
+
+format:
+  html:
+    theme:
+      - sandstone
+    mainfont: Inter
+    css: styles.css
+    toc: true
+
+
+
