@@ -1,7 +1,7 @@
 ---
 title: "Mehmet Göktuğ Öztürk"
 subtitle: "Ecologist · Geospatial Analyst"
-image: profile.jpg
+image: profile.webp
 page-navigation: false
 toc: false
 about:

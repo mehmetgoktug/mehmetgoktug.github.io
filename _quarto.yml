@@ -4,6 +4,8 @@ project:
 
 website:
   title: "Mehmet Göktuğ Öztürk"
+  description: "Mehmet Göktuğ Öztürk"
+  favicon: "favicon.webp"
   navbar:
     left:
       - href: index.qmd
