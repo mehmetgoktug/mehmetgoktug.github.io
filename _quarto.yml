@@ -1,6 +1,8 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - googlea82cc3371151aa74.html
 
 website:
   title: "Mehmet Göktuğ Öztürk"
