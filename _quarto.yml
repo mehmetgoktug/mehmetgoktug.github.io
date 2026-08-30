@@ -4,7 +4,8 @@ project:
 
 website:
   title: "Mehmet Göktuğ Öztürk"
-  description: "Mehmet Göktuğ Öztürk"
+  site-url: "https://mehmetgoktug.github.io/"
+  description: "Mehmet Göktuğ Öztürk is an ecologist and geospatial analyst working on GIS, remote sensing, spatial analysis, fire ecology, ecological modelling, and biogeography."
   favicon: "favicon.webp"
   navbar:
     left:
